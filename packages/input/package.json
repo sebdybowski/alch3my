@@ -1,0 +1,27 @@
+{
+  "name": "@alch3my/input",
+  "version": "0.0.0",
+  "description": "Alch3my input components",
+  "keywords": [
+    "alch3my",
+    "input",
+    "components"
+  ],
+  "author": "Seb Dybowski <dybowski@int.pl>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/input.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
