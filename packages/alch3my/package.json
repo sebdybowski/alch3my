@@ -1,0 +1,33 @@
+{
+  "name": "alch3my",
+  "version": "0.0.1",
+  "description": "full package",
+  "keywords": [
+    "alch3my",
+    "full",
+    "react",
+    "components"
+  ],
+  "author": "Seb Dybowski <dybowski@int.pl>",
+  "homepage": "http://placeholder",
+  "license": "MIT",
+  "main": "dist/alch3my.js",
+  "module": "dist/alch3my.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebdybowski/alch3my.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sebdybowski/alch3my/issues"
+  }
+}
