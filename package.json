@@ -1,6 +1,10 @@
 {
-  "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "lr:c": "lerna create --es-module",
+    "lr:v": "lerna version",
+    "lr:a": "lerna add"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }
